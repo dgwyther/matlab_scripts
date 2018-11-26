@@ -1,3 +1,4 @@
+% [alat,alon] = inverse_polar_stereo(x,y,xcentre,ycentre,gridsize,ref_lat)
 % this m-function calculates the latitude and longitude of a point
 % from its x,y coordinates in the polar stereographic coordinate system
 % with standard reference latitude -71.0. It should be the inverse to

@@ -1,5 +1,5 @@
 function [x,y]=polar_stereo_deluxe(alat,alon,xcentre,ycentre,gridsize,ref_lat)
-
+% [x,y]=polar_stereo_deluxe(alat,alon,xcentre,ycentre,gridsize,ref_lat)
 %common map, mflag, slat, slon, x0, y0, re, e, e2, pi, cdr
 
 %slat = -71.0
